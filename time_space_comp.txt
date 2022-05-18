@@ -1,0 +1,4 @@
+time complexity
+
+Relation b/w input size and running time. (Operations)
+
